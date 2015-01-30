@@ -1,5 +1,7 @@
 # ESValidator
 
+[![Build Status](https://travis-ci.org/oimou/esvalidator.svg)](https://travis-ci.org/oimou/esvalidator)
+
 ESValidator is a simple static validation tool powered by [esprima](http://esprima.org/).
 It makes validating code structure easier.
 
